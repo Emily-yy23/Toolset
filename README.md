@@ -36,6 +36,3 @@ This project aims to reduce repetitive manual work in code testing, assignment e
 
 The tools are currently in stable use and can be extended to support additional features as needed. Contributions and suggestions are welcome.
 
----
-
-This version focuses on clarity, purpose, and technical relevance, keeping the style aligned with typical GitHub project descriptions. Let me know if you'd like to shorten it further or tailor it to a specific audience.
